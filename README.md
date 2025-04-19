@@ -15,9 +15,11 @@ This repository showcases a collection of projects demonstrating my skills in bu
 - **Tableau & Power BI**: Building interactive dashboards and visualizations for decision support.
 - **Machine Learning**: Building predictive models to forecast business outcomes.
 
-## Key Projects:
-- **Customer Segmentation**: A SQL-based analysis of customer behavior to identify distinct segments for targeted marketing.
-- **Sales Forecasting**: Using Python for predictive modeling to forecast sales and inventory needs.
+## 🔥 Guided Projects
+
+- [Global CO2 Emissions Dashboard](./Projects/Global_CO2_Emissions/README.md)  
+  *Interactive Tableau dashboard based on 250 years of CO2 emissions data. Built using Maven Analytics guidance.*
+
 - **Marketing Campaign Analysis**: Tableau dashboards for visualizing the performance of marketing campaigns and customer engagement metrics.
 - **Financial Trend Analysis**: Power BI reports analyzing financial performance and forecasting future trends.
 
