@@ -1,0 +1,8 @@
+Global_CO2_Emissions/
+├── README.md
+├── project-notes.md
+├── /data
+│   └── emissions_raw.csv
+├── /visuals
+│   └── co2_emissions_dashboard.png
+├── /scripts
